@@ -1,13 +1,6 @@
 # graylog-http
 Node module to send Graylog Information via HTTP. Because sometimes that's all you need.
 
-# configuration
-
-	{
-		url: "http://localhost:8082/gelf", // URL to the Graylog Node
-		gzip : false // Set to true if you want to save some bandwidth.
-	}
-
 # Functions
 
 ## `new Logger({url: "http://localhost:12201/gelf"})`
