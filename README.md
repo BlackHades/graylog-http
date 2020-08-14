@@ -3,7 +3,7 @@ Node module to send Graylog Information via HTTP. Because sometimes that's all y
 
 # Functions
 
-## `new Logger({url: "http://localhost:12201/gelf"})`
+## `new Logger({url: "http://localhost:12201/gelf", host: "example.com",facility: "example-facility"})`
 
 Initializes the module with the given configuration
 
