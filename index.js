@@ -20,6 +20,7 @@ class Logger {
         };
         this.host = host;
         this.facility = facility;
+        return this;
     }
 
 

@@ -4,7 +4,7 @@ const expect = chai.expect;
 const assert = chai.assert;
 const Logger = require("../index");
 const logger = new Logger({
-  url: "http:://localhost:12201/gelf",
+  url: "http://localhost:12201/gelf",
     host: "local.test",
     facility: "local.facility"
 });
