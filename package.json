@@ -2,6 +2,7 @@
   "name": "graylog-http",
   "version": "1.0.0",
   "description": "This is a package to spool logs to graylog via http",
+  "repository": "https://github.com/BlackHades/graylog-http",
   "main": "index.js",
   "author": "Micheal Akinwonmi <michealakinwonmi@gmail.com>",
   "license": "MIT",
